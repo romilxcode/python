@@ -1,0 +1,10 @@
+# take input Celsius and convert to Fahrenheit.
+
+celsius = float(input("Enter the value: "))
+
+# print fahrenheit equivalent of celsius
+
+fahren =  (celsius*(9/5)) + 32
+
+print("Fahrenheit value is: ", fahren)
+
