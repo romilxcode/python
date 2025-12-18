@@ -62,5 +62,9 @@
         "gleam": "gleam run -m $fileNameWithoutExt"
     },
     "code-runner.runInTerminal": true,
-    "code-runner.showExecutionMessage": false
+    "code-runner.showExecutionMessage": false,
+    "editor.overtypeCursorStyle": "line",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "terminal.integrated.cursorStyle": "line"
 }

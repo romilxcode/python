@@ -1,0 +1,2 @@
+File handling is a crucial aspect of programming, allowing you to read from and write to files on your system. Below are some common operations you can perform with files in Python.
+1.**Opening a File**: You can open a file using the `open()` function. You need to specify the file path and the mode (e.g., 'r' for reading, 'w' for writing, 'a' for appending).
